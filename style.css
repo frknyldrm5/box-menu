@@ -1,0 +1,27 @@
+.main-box{
+    width: 200px;
+    height: 150px;
+    background-color: pink;
+    border: 1px solid black;
+    box-sizing: content-box;
+}
+
+/*! f harfi cozum */
+.box1,.box2,.box3,.box5,.box6,.box8{
+    background-color: grey;
+    width: 20px;
+    height: 20px;
+    border:1px solid black;
+    margin: 2px;
+    display: inline-block;
+    
+    
+}
+.box4,.box7{
+    background-color: grey;
+    width: 20px;
+    height: 20px;
+    border:1px solid black;
+    margin: 2px;
+    display: block;
+}
